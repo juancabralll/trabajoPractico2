@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Se genera un conflicto en main
+=======
+Generar conflicto
+>>>>>>> conco2
