@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(245, 160, 103);
+}
+
+form{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+
+}
+
+label{
+    font-size: 20px;
+    margin: 20px;
+}
+
+input{
+    border-radius: 7px;
+}
+button{
+    margin: 20px;
+}
