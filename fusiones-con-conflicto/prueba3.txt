@@ -1,1 +1,2 @@
 Destino: que se genere un conflicto en main
+Destino: que se rompa 
